@@ -11,8 +11,9 @@ package com.yezhinao;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("Hello Git_IDEA");
+        System.out.println("Hello Git_IDEA2");
     }
-    
+
     /**
      * @Title: localTest
      * @Description: 
